@@ -1,0 +1,139 @@
+[20-Nov-2022 22:32:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:32:42 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::call() in /home/faracity/crm.faracity.com/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 8
+[20-Nov-2022 22:33:50 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:33:50 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:33:51 UTC] PHP Parse error:  syntax error, unexpected '/', expecting end of file in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:29 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:35:52 UTC] PHP Fatal error:  Uncaught Error: Class 'Database\pdo' not found in /home/faracity/crm.faracity.com/index.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/faracity/crm.faracity.com/index.php on line 9
+[20-Nov-2022 22:37:50 UTC] PHP Warning:  require_once(/home/faracity/crm.faracity.com/system/autoload.php): failed to open stream: No such file or directory in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:37:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/faracity/crm.faracity.com/system/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:24 UTC] PHP Warning:  require_once(/home/faracity/crm.faracity.com/system/autoload.php): failed to open stream: No such file or directory in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/faracity/crm.faracity.com/system/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:25 UTC] PHP Warning:  require_once(/home/faracity/crm.faracity.com/system/autoload.php): failed to open stream: No such file or directory in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/faracity/crm.faracity.com/system/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:25 UTC] PHP Warning:  require_once(/home/faracity/crm.faracity.com/system/autoload.php): failed to open stream: No such file or directory in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/faracity/crm.faracity.com/system/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:26 UTC] PHP Warning:  require_once(/home/faracity/crm.faracity.com/system/autoload.php): failed to open stream: No such file or directory in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/faracity/crm.faracity.com/system/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:26 UTC] PHP Warning:  require_once(/home/faracity/crm.faracity.com/system/autoload.php): failed to open stream: No such file or directory in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/faracity/crm.faracity.com/system/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:26 UTC] PHP Warning:  require_once(/home/faracity/crm.faracity.com/system/autoload.php): failed to open stream: No such file or directory in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:38:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/faracity/crm.faracity.com/system/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:39:19 UTC] PHP Warning:  require_once(/home/faracity/crm.faracity.com/applicationautoload.php): failed to open stream: No such file or directory in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:39:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/faracity/crm.faracity.com/applicationautoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faracity/crm.faracity.com/index.php on line 324
+[20-Nov-2022 22:40:19 UTC] PHP Warning:  require_once(./libraries/database/App_database.php): failed to open stream: No such file or directory in /home/faracity/crm.faracity.com/application/autoload.php on line 5
+[20-Nov-2022 22:40:19 UTC] PHP Fatal error:  require_once(): Failed opening required './libraries/database/App_database.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/faracity/crm.faracity.com/application/autoload.php on line 5
+[20-Nov-2022 22:42:53 UTC] PHP Warning:  Use of undefined constant APP_DB_USERNAME - assumed 'APP_DB_USERNAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 19
+[20-Nov-2022 22:43:51 UTC] PHP Warning:  Use of undefined constant APP_DB_USERNAME - assumed 'APP_DB_USERNAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 19
+[20-Nov-2022 22:43:53 UTC] PHP Warning:  Use of undefined constant APP_DB_USERNAME - assumed 'APP_DB_USERNAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 19
+[20-Nov-2022 22:43:54 UTC] PHP Warning:  Use of undefined constant APP_DB_USERNAME - assumed 'APP_DB_USERNAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 19
+[20-Nov-2022 22:44:01 UTC] PHP Warning:  Use of undefined constant APP_DB_USERNAME - assumed 'APP_DB_USERNAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 19
+[20-Nov-2022 22:44:01 UTC] PHP Warning:  Use of undefined constant APP_DB_USERNAME - assumed 'APP_DB_USERNAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 19
+[20-Nov-2022 22:44:27 UTC] PHP Warning:  Use of undefined constant APP_DB_USERNAME - assumed 'APP_DB_USERNAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 19
+[20-Nov-2022 22:44:27 UTC] PHP Warning:  Use of undefined constant APP_DB_PASSWORD - assumed 'APP_DB_PASSWORD' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 20
+[20-Nov-2022 22:44:27 UTC] PHP Warning:  Use of undefined constant APP_DB_NAME - assumed 'APP_DB_NAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 21
+[20-Nov-2022 22:45:26 UTC] PHP Warning:  Use of undefined constant APP_DB_USERNAME - assumed 'APP_DB_USERNAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 21
+[20-Nov-2022 22:45:26 UTC] PHP Warning:  Use of undefined constant APP_DB_PASSWORD - assumed 'APP_DB_PASSWORD' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 22
+[20-Nov-2022 22:45:26 UTC] PHP Warning:  Use of undefined constant APP_DB_NAME - assumed 'APP_DB_NAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 24
+[20-Nov-2022 22:45:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database\pdo::setAttribute() in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php:26
+Stack trace:
+#0 /home/faracity/crm.faracity.com/index.php(325): Database\pdo::call()
+#1 {main}
+  thrown in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 26
+[20-Nov-2022 22:45:27 UTC] PHP Warning:  Use of undefined constant APP_DB_USERNAME - assumed 'APP_DB_USERNAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 21
+[20-Nov-2022 22:45:27 UTC] PHP Warning:  Use of undefined constant APP_DB_PASSWORD - assumed 'APP_DB_PASSWORD' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 22
+[20-Nov-2022 22:45:27 UTC] PHP Warning:  Use of undefined constant APP_DB_NAME - assumed 'APP_DB_NAME' (this will throw an Error in a future version of PHP) in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 24
+[20-Nov-2022 22:45:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Database\pdo::setAttribute() in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php:26
+Stack trace:
+#0 /home/faracity/crm.faracity.com/index.php(325): Database\pdo::call()
+#1 {main}
+  thrown in /home/faracity/crm.faracity.com/application/libraries/database/App_database.php on line 26
